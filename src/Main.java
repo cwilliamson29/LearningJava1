@@ -9,6 +9,8 @@ public class Main {
         //Mortgage.mortgage();
         //FizzBuzz.fizzBuzz();
         //MortgageTwo.mortgageTwo();
-        MortgageThree.mortgageThree();
+        //MortgageThree.mortgageThree();
+        //MortgageFour.mortgageFour();
+        M5Main.m5Main();
     }
 }
